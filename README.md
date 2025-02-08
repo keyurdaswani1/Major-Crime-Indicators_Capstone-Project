@@ -24,7 +24,7 @@
 ### Phase 3 (Power BI)
 - Power BI Dashboard
 - Delivering the Insights
-- 
+
 ## Problem Statement
 ### KPI's REQUIREMENT
 ### Dashboard REQUIREMENT
