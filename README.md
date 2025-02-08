@@ -5,7 +5,7 @@
 <a href="https://data.torontopolice.on.ca/datasets/TorontoPS::major-crime-indicators-open-data/about"> Dataset </a>
 
 ## Tools: Python, SQL, PowerBI
-- Python Pandas for understanding the data and cleaning.
+- <a href="https://colab.research.google.com/github/SriharshaVarmaC/Major-Crime-Indicators_Capstone-Project/blob/main/MCI_Cleaning%20and%20Exploring.ipynb#scrollTo=e79631de"> Python </a> Pandas for understanding the data and cleaning.
 - SQL exploring the data with accessing selected quires
 - Power BI visualizing data
   
